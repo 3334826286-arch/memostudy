@@ -1,0 +1,11 @@
+.next
+out
+node_modules
+.netlify
+*.log
+_workspace
+invest-decision-mvp
+.playwright-cli
+PLUTO-upload.zip
+netlify-ready.zip
+free-tools-hub-upload.zip
